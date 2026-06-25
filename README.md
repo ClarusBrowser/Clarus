@@ -16,7 +16,7 @@ Pour installer, il faut :
 4. Lancer l'installation
 5. Utiliser l'application !
 
->[!WARNING]
+>[!CAUTION]
 >Il est possible que Windows dit que Clarus est un virus, un fichier malveillant ou qu'il n'y ai pas d'éditeur certifié.
 >
 >C'est normal, étant donné que le projet est récent et qu'il faut payer énormément pour ajouter un éditeur, il est possible que ça arrive.
