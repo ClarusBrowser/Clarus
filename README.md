@@ -5,8 +5,7 @@ Clarus est un navigateur web ultra-léger et ultra-efficient qui se démarque gr
 
 ## Et, les fonctions ?
 * Clarus ne contient aucune fonction IA
-* Clarus contient beaucoup de fonction de personnalisation
-* Affiche pratiquement tout les sites !
+* N'utilise pratiquement aucune mémoire (voir partie suivante)
 
 ## C'est vraiment mieux ?
 <img width="1093" height="580" alt="image" src="https://github.com/user-attachments/assets/0adb0245-ab3f-479f-88e2-0d9656a51aec" />
