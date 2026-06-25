@@ -8,7 +8,7 @@ Clarus est un navigateur web français qui est open-source et permet de le perso
 * Clarus contient beaucoup de fonction de personnalisation
 * Affiche pratiquement tout les sites !
 
-# INSTALLATION
+# Installation
 Pour installer, il faut :
 1. Accéder à la page de "Releases"
 2. Sélectionner la version souhaitée
