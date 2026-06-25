@@ -1,7 +1,7 @@
 # Bienvenue sur Clarus !
 -----
 ## C'est quoi Clarus ?
-Clarus est un navigateur web français qui est open-source et permet de le personnaliser comme souhaité.
+Clarus est un navigateur web ultra-léger et ultra-efficient qui se démarque grâce à sa base minimaliste.
 
 ## Et, les fonctions ?
 * Clarus ne contient aucune fonction IA
