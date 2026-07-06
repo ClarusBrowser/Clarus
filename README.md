@@ -3,6 +3,8 @@
 ## C'est quoi Clarus ?
 Clarus est un navigateur web ultra-léger et ultra-efficient qui se démarque grâce à sa base minimaliste.
 
+Pas d'extensions, pas de traqueurs, pas d'IA. Clarus est juste un navigateur qui marche pour les personnes souhaitant une expérience simple, rapide et avec une vie privée impeccable.
+
 ## Et, les fonctions ?
 * Clarus ne contient aucune fonction IA
 * N'utilise pratiquement aucune mémoire (voir partie suivante)
