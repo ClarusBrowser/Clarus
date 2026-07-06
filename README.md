@@ -29,3 +29,7 @@ Pour installer, il faut :
 >Il est possible que Windows dit que Clarus est un virus, un fichier malveillant ou qu'il n'y ai pas d'éditeur certifié.
 >
 >C'est normal, étant donné que le projet est récent et qu'il faut payer énormément pour ajouter un éditeur, il est possible que ça arrive.
+
+
+## Documentation
+Vous pouvez y accéder ici : https://github.com/ClarusBrowser/Clarus/wiki
